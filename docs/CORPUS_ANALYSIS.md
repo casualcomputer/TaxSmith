@@ -187,10 +187,9 @@ are:
 | CRA rulings and technical interpretations | Narrow CRA administrative views and transaction-specific reasoning. | Medium |
 | Commercial/secondary commentary | Practitioner issue spotting and citators, only if licensed. | Later |
 
-## Case-Law Harvest Plan
+## Case-Law Coverage Plan
 
-Use `scripts/court_decisions_to_markdown.py` for official court decision
-ingestion. The intended Taxsmith scope is:
+The intended Taxsmith court coverage is:
 
 | Court | Folder | Scope | Why |
 | --- | --- | --- | --- |
@@ -200,21 +199,10 @@ ingestion. The intended Taxsmith scope is:
 | Supreme Court of Canada | `docs/cases/scc` -> `corpus/cases/scc` | Tax-relevant decisions | Highest authority for major interpretive principles and leading tax cases. |
 | Federal Court | `docs/cases/fc` -> `corpus/cases/fc` | Tax-relevant judicial review and related matters | Taxpayer relief, CRA administrative decisions, collections, remission, access, mandamus, and procedural fairness. |
 
-The harvester prefers HTML decision text and can mirror PDFs with `--pdf`.
-Lexum/Decisia may require human validation during bulk access; when that
-happens, the harvester stops and should be resumed later rather than bypassed.
-
-For the A2AJ TCC bulk source, use
-`scripts/a2aj_case_law_parquet_to_raw_jsonl.py` to refresh the raw JSONL view
-and `scripts/a2aj_tcc_parquet_to_markdown.py --force` to regenerate the derived
-Markdown layer. The Markdown converter does not infer docket numbers, judges, or
-subjects by default; use `--infer-text-metadata` only for clearly labelled
-`inferred_*` metadata.
-
-For official TCC page checks, use `scripts/court_decisions_to_markdown.py
---court tcc`. Its default output is `docs/cases/validation/tcc-official-decisia/`
-so official-page conversions do not overlap with the upload-ready A2AJ TCC
-corpus.
+Where official sites provide HTML decision text, it should be preferred over
+PDF for future source validation; PDF remains an acceptable fallback. Official
+validation material should remain separate from the upload-ready A2AJ corpus so
+the same decision is not retrieved twice.
 
 ## Recommendation
 

@@ -1,243 +1,121 @@
 # Taxsmith
 
-Authority-aware Canadian tax corpus and retrieval workflow prototype.
+An authority-aware Canadian tax corpus for research, retrieval, and risk-analysis
+experiments.
 
-Taxsmith is being shaped as an open corpus repo for public Canadian tax source
-materials. The goal is simple: keep the raw converted documents easy to inspect,
-easy to upload into RAG tools, and easy to reuse in agent or evaluation
-workflows without first reverse-engineering Canada.ca.
+This repository is primarily a **dataset**. You do not need to run code to use
+it.
 
-## What To Use
+## Start Here
 
-Start with `corpus/` for normalized Markdown browsing and RAG ingestion. For
-A2AJ case-law extraction agents, treat the raw pull in `data/a2aj_case_law/` as
-the canonical local A2AJ input: the parquet file is the source of truth for this
-repo's A2AJ pipeline, and `raw.jsonl` is a field-preserving JSONL export for
-tools that cannot read parquet. This does not make the A2AJ pull an official
-Tax Court source.
+Choose one representation based on how you plan to use the material:
+
+| Need | Use | What it contains |
+| --- | --- | --- |
+| Browse documents or load folders recursively | `corpus/` | Canonical Markdown organized by source family |
+| Upload files to a tool that flattens folders | `exports/flat-md/` or `exports/flat-txt/` | The same documents with path-safe filenames |
+| Build a custom ingestion pipeline | `exports/documents.jsonl` | One document per row with text and metadata |
+| Review coverage, sizes, and token estimates | `corpus/manifests/documents.csv` | Spreadsheet-friendly document inventory |
+| Inspect original dataset representations and provenance | `data/` | Raw or source-preserving inputs, including TCC parquet/JSONL |
+
+Most users should start with `corpus/`. Do not upload `corpus/`, `exports/`, and
+`data/` together; they contain overlapping representations of the same material.
+
+## What Is Included
+
+| Corpus | Documents | Role |
+| --- | ---: | --- |
+| Tax Court of Canada cases | 15,704 | Unofficial A2AJ-derived language-version decisions |
+| CRA forms and publications | 1,146 | Filing guidance, forms, guides, notices, and payroll material |
+| CRA income tax technical publications | 149 | Folios, information circulars, technical news, and archived bulletins |
+| CRA multimedia transcripts | 125 | Plain-language webinars and video transcripts |
+| CRA compliance manuals | 2 | Income Tax Audit Manual and Large Business Audit Manual |
+
+Detailed distributions, long-document outliers, token estimates, strengths, and
+dataset gaps are documented in [docs/CORPUS_ANALYSIS.md](docs/CORPUS_ANALYSIS.md).
+
+## Folder Map
 
 ```text
-corpus/
-  cases/
-    fca/
-    fc/
-    scc/
-    tcc/
-  cra/
-    forms-publications/
-    tax/
-      technical-information/
-        income-tax/
-          current-publications/
-        compliance-manuals-policies/
-    multimedia/
-  manifests/
-exports/
-  flat-md/
-  flat-txt/
-  documents.jsonl
-  documents.csv
+corpus/                         canonical user-facing Markdown
+  cases/tcc/                    A2AJ-derived TCC decisions
+  cra/                          CRA publications, technical material, and transcripts
+  manifests/                    document inventories and metadata
+exports/                        ingestion-friendly copies of the corpus
+data/                           raw/source-preserving dataset representations
+docs/                           dataset notes, provenance, and validation material
 ```
 
-Current generated corpus:
+The same source document may appear in more than one representation. Pick one
+user-facing representation for ingestion and retain the manifests for metadata.
 
-| Corpus | Markdown docs | Notes |
-| --- | ---: | --- |
-| `corpus/cases/tcc/` | 15,704 | Tax Court of Canada decisions derived from the A2AJ Canadian Case Law TCC parquet pull. The repository is not the official court source. |
-| `corpus/cra/forms-publications/` | 1,146 | CRA forms/publications crawl. Mostly HTML-derived, with PDF fallback where HTML was unavailable. |
-| `corpus/cra/tax/technical-information/income-tax/current-publications/` | 149 | Income tax folios, information circulars, interpretation bulletins, and technical news. |
-| `corpus/cra/tax/technical-information/compliance-manuals-policies/` | 2 | Income Tax Audit Manual and Large Business Audit Manual. |
-| `corpus/cra/multimedia/` | 125 | CRA video transcripts from business, individual, and charity galleries. |
+## Metadata And Context Size
 
-Raw case-law pull:
+The corpus manifest includes `source`, `last_modified`, `corpus_path`,
+`source_family`, `document_type`, `archived`, file size, character count, word
+count, and `estimated_token_count`.
+
+Token estimates use `ceil(character_count / 4)`. They are useful for studying
+the distribution and planning chunk sizes, but they are not exact counts for a
+specific tokenizer. The largest file is the merged Income Tax Audit Manual at
+about 522,000 estimated tokens; this is a source document size, not a suggested
+model context window. Large documents should be split by headings before model
+input or embedding.
+
+See [docs/RAG_USAGE.md](docs/RAG_USAGE.md) for ingestion choices and metadata
+handling.
+
+## Tax Court Data Limitation
+
+The TCC corpus is a research dataset, not an official Tax Court of Canada
+publication or an authoritative legal record.
+
+The 15,704 upload-ready Markdown files are derived from the third-party A2AJ
+Canadian Case Law TCC dataset. The source-preserving local copies are:
 
 | Path | Role |
 | --- | --- |
-| `data/a2aj_case_law/TCC/train.parquet` | Canonical local A2AJ TCC parquet pull for this repo's A2AJ pipeline. Contains structured A2AJ columns and plain-text `unofficial_text_en/fr`, not raw official HTML. |
-| `data/a2aj_case_law/TCC/raw.jsonl` | Field-preserving JSONL serialization of the parquet rows for agent/ETL code that does not read parquet. |
-| `data/a2aj_case_law/TCC/schema.json` | Column schema, row counts, file sizes, and export provenance. |
-| `docs/cases/tcc/` and `corpus/cases/tcc/` | Upload-ready Markdown compatibility layer derived from the A2AJ raw pull. |
-| `docs/cases/validation/tcc-official-decisia/` | Official-page-derived TCC validation samples kept outside the upload corpus to avoid duplicate retrieval. |
+| `data/a2aj_case_law/TCC/train.parquet` | Canonical local A2AJ pull with structured fields and `unofficial_text_en/fr` |
+| `data/a2aj_case_law/TCC/raw.jsonl` | Field-preserving JSONL representation of the parquet rows |
+| `data/a2aj_case_law/TCC/schema.json` | Schema, counts, sizes, and provenance |
+| `corpus/cases/tcc/` | Markdown compatibility layer for browsing and retrieval |
 
-## Tax Court Case-Law Data Limitation
+The parquet contains plain-text unofficial reproductions, not raw official
+Decisia HTML. Ten direct official-page-derived samples are kept separately in
+`docs/cases/validation/tcc-official-decisia/` for source-fidelity checks. They
+are excluded from the upload corpus to reduce duplicate retrieval.
 
-The TCC corpus in this repository is a local research and RAG dataset, not an
-official Tax Court of Canada publication and not an authoritative legal record.
+Before relying on a case, verify its text, citation, date, and procedural status
+against the official TCC/Lexum/Decisia source.
 
-The upload-ready TCC corpus comes from the third-party A2AJ Canadian Case Law
-dataset: 15,704 language-version Markdown documents are derived from
-`data/a2aj_case_law/TCC/train.parquet`. A2AJ provides plain-text
-`unofficial_text_en/fr` fields and upstream license notes. The parquet does not
-contain raw official Decisia HTML, and the derived Markdown should be treated as
-an unofficial reproduction.
+## Authority-Aware Use
 
-The repo also preserves 10 direct TCC Decisia page conversions from a small live
-crawl under `docs/cases/validation/tcc-official-decisia/`. Those records include
-official-page metadata such as an HTML hash where captured, and they are useful
-as validation samples or an official-source-derived comparison set. They are not
-copied into `corpus/` or `exports/`, because mixing them with A2AJ-derived files
-can create duplicate retrieval for the same court item. Users should verify
-citations, text, dates, and procedural status against the official
-TCC/Lexum/Decisia page before relying on a case.
+Different folders serve different roles. CRA guidance can explain filing,
+eligibility, evidence, and audit practice, but it is not binding legislation.
+Archived publications should be used as historical context. TCC decisions are
+judicial sources, but this repository's copies are unofficial and may have been
+appealed or subsequently considered by higher courts.
 
-## RAG Usage
+A production system should retain source authority, date, archived status, and
+provenance on every chunk. It should also keep official validation records
+separate from production retrieval unless records are deliberately deduplicated
+and tagged.
 
-Recommended starting points:
+## Known Coverage Gaps
 
-- Folder-native loaders: point them at `corpus/` recursively.
-- Web upload UIs that flatten or dislike folders: use `exports/flat-md/` or `exports/flat-txt/`.
-- API ingestion or custom loaders: use `exports/documents.jsonl` for full text plus metadata, or `corpus/manifests/documents.jsonl` for metadata only.
-- Do not assume a RAG product can ingest this repository as one `.zip`. Use ZIP
-  only when the target product explicitly documents archive unpacking for
-  knowledge ingestion.
-- Do not upload `docs/cases/validation/` into a production retrieval index
-  unless you are deliberately building a QA/comparison dataset.
+This is enough for a CRA-guidance-centered prototype, but not for a complete
+Canadian tax authority system. Important additions still include consolidated
+federal statutes and regulations, treaties, Department of Finance proposals,
+current form/line extraction, tax-relevant FCA/SCC/FC decisions, provincial and
+territorial sources, and broader official-source case validation.
 
-Each document keeps source metadata such as `source`, `last_modified`,
-`corpus_path`, `source_family`, `document_type`, and inferred `archived`
-status. More framework-specific notes are in [docs/RAG_USAGE.md](docs/RAG_USAGE.md).
-
-## Production RAG Loading
-
-This repo is intended to be loaded into production RAG systems as documents plus
-metadata, not as one giant archive. If a framework has file-count, file-size, or
-supported-extension limits, prefer scripted ingestion from `exports/documents.jsonl`
-or batched flat-file upload from `exports/flat-md/` or `exports/flat-txt/`.
-
-| Product / framework | Confidence | Best repo input | Production loading approach |
-| --- | --- | --- | --- |
-| RAGFlow | High for batched files/API, not ZIP | `exports/flat-md/` or scripted uploads from `corpus/` | Confirmed nested folder objects and multi-file upload APIs. Do not assume one ZIP or one local folder upload. Create folders/upload files in batches, link/convert files to datasets, then attach manifest metadata. |
-| Dify | High for API-per-document, limited UI upload | `exports/documents.jsonl` | Confirmed default UI upload limit of 5 files and 15 MB per file; create-by-file accepts one file per request. For the full corpus, loop over JSONL rows and use create-by-text or one file request per document. |
-| AnythingLLM | Medium from checked docs | `exports/flat-txt/` first | Confirmed high-level document ingestion and examples like PDF/TXT/DOCX. ZIP and Markdown support were not verified here, so use flat TXT unless your installed version documents more. |
-| LlamaIndex | High for local loaders | `corpus/` | Confirmed local recursive Markdown loading. Join with `corpus/manifests/documents.jsonl` when you want source metadata on every document. |
-| LangChain / LangGraph apps | General ETL pattern | `exports/documents.jsonl` | Build `Document` objects from JSONL text and metadata, then chunk by Markdown headings before embedding. Verify your chosen loader/vector store limits separately. |
-| Haystack or custom ETL | General ETL pattern | `exports/documents.jsonl` | Treat each row as one source document and preserve manifest metadata through conversion, chunking, indexing, and citation display. Verify converter and document-store limits separately. |
-
-Other production RAG UIs can still use this corpus, but they should not be listed
-as directly supported until their current docs confirm file types, file counts,
-file sizes, folder behavior, and archive behavior.
-
-Recommended dataset split for production indexes:
-
-- `cra-income-tax-technical`: folios, information circulars, interpretation bulletins, and technical news.
-- `cra-compliance-manuals`: audit manuals and compliance policy material.
-- `cra-forms-publications`: broad CRA guides, notices, memoranda, forms publications, and payroll tables.
-- `cra-multimedia-transcripts`: plain-language video and webinar transcript content.
-- `cases-tax`: upload-ready TCC decisions plus tax-relevant FCA, SCC, and Federal Court decisions.
-- `cases-validation`: optional QA/comparison dataset from `docs/cases/validation/`; keep it separate from production retrieval unless deduped and tagged.
-
-## Repository Structure
-
-```text
-.
-|-- corpus/                 # Canonical raw Markdown corpus and manifests
-|-- exports/                # Flat and JSONL ingestion-friendly exports
-|-- data/                   # Original manual conversions used as staging inputs
-|-- docs/
-|   |-- RAG_USAGE.md
-|   |-- cases/              # Court decision staging outputs and validation samples
-|   `-- cra/                # Scrape outputs and crawl notes
-|-- scripts/                # Scrapers and corpus/export builder
-|-- src/taxsmith/           # Retrieval/workflow prototype
-|-- tests/
-`-- README.md
-```
-
-## Refreshing The Corpus
-
-After rerunning any scraper, regenerate the user-facing layout:
-
-```bash
-python3 scripts/build_corpus_layout.py
-```
-
-For the A2AJ Tax Court pull, keep the raw export and Markdown compatibility
-layer separate:
-
-```bash
-python3 scripts/a2aj_case_law_parquet_to_raw_jsonl.py
-python3 scripts/a2aj_tcc_parquet_to_markdown.py --force
-python3 scripts/build_corpus_layout.py
-```
-
-The Markdown converter does not infer docket numbers, judges, or subjects by
-default. Use `--infer-text-metadata` only when you deliberately want clearly
-labelled `inferred_*` metadata from the text labels.
-
-The builder creates:
-
-- `corpus/**/*.md`
-- `corpus/manifests/documents.jsonl`
-- `corpus/manifests/documents.csv`
-- `exports/flat-md/*.md`
-- `exports/flat-txt/*.txt`
-- `exports/documents.jsonl`
-
-It refuses to overwrite an existing `corpus/` or `exports/` directory unless
-that directory has the generator marker, so accidental hand-edited corpus data is
-not silently replaced.
-
-## Retrieval Prototype
-
-The core engine is deliberately separated from any agent framework:
-
-- `taxsmith.schemas`: canonical source, citation, query, and retrieval data structures.
-- `taxsmith.workflow_contracts`: deterministic practitioner workflows that require specific source checks.
-- `taxsmith.retrieval`: retrieval interfaces and authority ranking helpers.
-- `taxsmith.orchestrator`: orchestration boundary where LangGraph can later coordinate the workflow.
-
-LangGraph is planned for orchestration, not for search itself. The search layer
-should remain independently testable.
-
-## Source And Reuse Notes
+## Source And Attribution
 
 This repository contains converted copies of public Government of Canada web
-content. Keep the original source URL with every derived document and chunk.
-Before redistribution, review the Canada.ca terms and conditions:
+content and third-party case-law dataset material. Preserve original source URLs
+and review the applicable source terms before redistribution. Do not present
+Taxsmith as an official Canada Revenue Agency or Tax Court service.
 
-https://www.canada.ca/en/transparency/terms.html
-
-Canada.ca distinguishes non-commercial reproduction from commercial
-redistribution and may exclude third-party copyrighted content.
-
-## Citation And Attribution
-
-If you use this corpus, manifests, exports, scraper output, or derived chunks in
-academic work, benchmarks, model training, model evaluation, internal tools,
-commercial RAG systems, or customer-facing products, cite this repository and
-preserve the original Canada.ca source URLs in downstream citations.
-
-Minimum attribution:
-
-- Cite this repository or released dataset in papers, model cards, data cards,
-  product documentation, and commercial attribution notices.
-- Keep `source`, `last_modified`, `corpus_path`, `document_type`, and `archived`
-  metadata attached to documents/chunks where your system supports metadata.
-- In generated answers, cite the original Canada.ca `source` URL, not only this
-  repository.
-- Do not present this project as an official Canada Revenue Agency service.
-
-Suggested BibTeX:
-
-```bibtex
-@misc{taxsmith_cra_corpus_2026,
-  title        = {Taxsmith Canadian Tax Corpus: CRA Public Tax Publications in Markdown},
-  author       = {Luan, Henry},
-  year         = {2026},
-  howpublished = {\url{https://github.com/casualcomputer/TaxSmith}},
-  note         = {Converted corpus generated from public Canada Revenue Agency and Canada.ca source materials}
-}
-```
-
-The machine-readable citation metadata is in `CITATION.cff`. Citation does not
-replace your responsibility to review Canada.ca terms, source-page notices, and
-any downstream commercial-use requirements.
-
-## Known Gaps
-
-- The broad forms/publications corpus still needs a QA pass to replace
-  catalogue wrapper records with their ultimate HTML or PDF publication where
-  possible.
-- Technical-information topic pages beyond income tax and compliance manuals
-  are not fully crawled yet.
-- French-language equivalents are out of scope for the current English corpus.
+If you use this corpus in research, benchmarks, model development, evaluation,
+or a product, cite this repository and retain document-level provenance. See
+[CITATION.cff](CITATION.cff) for citation metadata.

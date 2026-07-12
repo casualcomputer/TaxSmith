@@ -30,16 +30,6 @@ compatibility layer for browsing, recursive Markdown loaders, and flat exports.
 
 A2AJ-derived Markdown includes citation, decision date, language, official
 source URL, row-level raw-source metadata, and source provenance. It does not
-infer subjects, docket/file numbers, or judges by default. If
-`scripts/a2aj_tcc_parquet_to_markdown.py --infer-text-metadata` is used, those
-values are written only as clearly labelled `inferred_*` metadata.
-
-Use `scripts/court_decisions_to_markdown.py --court tcc` to resume direct
-official harvesting into the validation folder. If Lexum/Decisia returns
-validation or rate limiting, wait or complete validation in a browser and resume
-with a larger `--delay`.
-
-Use `scripts/a2aj_case_law_parquet_to_raw_jsonl.py` to refresh the raw JSONL
-view from the parquet. Use `scripts/a2aj_tcc_parquet_to_markdown.py --force` to
-regenerate only the A2AJ-derived Markdown files from
-`data/a2aj_case_law/TCC/train.parquet`.
+infer subjects, docket/file numbers, or judges by default. Any `inferred_*`
+fields should be treated as conversion hints rather than source-provided court
+metadata.

@@ -15,18 +15,9 @@ Tax Court bulk case-law data lives under `data/a2aj_case_law/TCC/`.
 | `manifest.jsonl` | Taxsmith Markdown conversion manifest. |
 
 The parquet contains structured A2AJ columns and plain-text
-`unofficial_text_en/fr`; it is not raw official HTML. Regenerate the JSONL view
-with:
-
-```bash
-python3 scripts/a2aj_case_law_parquet_to_raw_jsonl.py
-```
-
-Regenerate the derived Markdown compatibility layer with:
-
-```bash
-python3 scripts/a2aj_tcc_parquet_to_markdown.py --force
-```
+`unofficial_text_en/fr`; it is not raw official HTML. The JSONL preserves the
+same source fields for systems that do not read parquet. The Markdown files in
+`corpus/cases/tcc/` are a derived compatibility representation.
 
 Official-page-derived TCC validation samples are staged under
 `docs/cases/validation/tcc-official-decisia/`, not in `data/` and not in the
@@ -45,18 +36,6 @@ folder is the staging source for those generated corpus documents.
 | --- | --- | --- |
 | `cra_income_tax_audit_manual.md` | https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax-audit-manual-domestic-compliance-programs-branch-dcpb-5.html | Multi-page Income Tax Audit Manual merged from chapter links. |
 | `cra_large_business_audit_manual.md` | https://www.canada.ca/en/revenue-agency/services/tax/technical-information/compliance-manuals-policies/large-business-audit-manual-international-large-business-investigations-branch-ilbib.html | Single-page Large Business Audit Manual converted to Markdown. |
-
-## Refresh Commands
-
-```bash
-python3 scripts/merge_cra_income_tax_audit_manual.py
-```
-
-```bash
-python3 scripts/cra_canada_page_to_markdown.py \
-  https://www.canada.ca/en/revenue-agency/services/tax/technical-information/compliance-manuals-policies/large-business-audit-manual-international-large-business-investigations-branch-ilbib.html \
-  --output data/cra_large_business_audit_manual.md
-```
 
 ## Ingestion Notes
 
